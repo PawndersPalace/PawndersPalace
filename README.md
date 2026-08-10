@@ -30,7 +30,16 @@
 </p>
 
 ---
-### Focus is top priority 
+
+### 🎯 Focus is top priority
+
+- 🔎  Sharpening my skills in penetration testing and vulnerability analysis
+
+- 🧠  Studying common attack vectors and how to defend against them
+
+- 🏗️  Building small tools and scripts in Python and C++ to automate security tasks
+
+- 📚  Working toward a recognized cybersecurity certification
 
 ---
 
