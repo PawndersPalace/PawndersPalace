@@ -30,17 +30,7 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PawndersPalace&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="PawndersPalace's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PawndersPalace&theme=tokyonight&hide_border=true" alt="PawndersPalace's GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawndersPalace&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-</p>
+### Focus is top priority 
 
 ---
 
