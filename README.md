@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pawn</h1>
+<h3 align="center">Cybersecurity Enthusiast | Developer | Gamer</h3>
 
-<!--
-**PawndersPalace/PawndersPalace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2AA9E0&center=true&vCenter=true&width=500&lines=Breaking+things+to+understand+them;Coding+in+Lua%2C+Python%2C+C%2B%2B+%26+C%23;Always+learning%2C+always+building" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔐 About Me
+
+- 🛡️ I'm into **cybersecurity** — always exploring how systems break and how to defend them
+- 💻 I code in **Lua, Python, C++, and C#**
+- 🌍 Based in the **USA**
+- 🗣️ I speak **German** and **English**
+- 🎮 In my free time, you'll find me **gaming**
+- 📫 Feel free to reach out or check out my repos below
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=lua,python,cpp,cs,linux,git" alt="skills" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pawn&show_icons=true&theme=tokyonight&hide_border=true" alt="Pawn's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawn&theme=tokyonight&hide_border=true" alt="Pawn's GitHub streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>🔒 Security isn't a product, it's a process.</i>
+</p>
