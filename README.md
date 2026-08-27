@@ -21,7 +21,7 @@
 
 - 📫  Feel free to reach out or check out my repos below
 
-- 🌐  Check out my website: [pawnderspalace.github.io/Website](https://pawnderspalace.github.io/Website/)
+- 🌐  Check out my website: [Website](d6wo.cc)
 
 ---
 
@@ -30,18 +30,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=lua,python,cpp,cs,linux,git" alt="skills" />
 </p>
-
----
-
-### 🎯 Focus is top priority
-
-- 🔎  Sharpening my skills in penetration testing and vulnerability analysis
-
-- 🧠  Studying common attack vectors and how to defend against them
-
-- 🏗️  Building small tools and scripts in Python and C++ to automate security tasks
-
-- 📚  Working toward a recognized cybersecurity certification
 
 ---
 
