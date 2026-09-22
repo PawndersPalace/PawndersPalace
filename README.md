@@ -21,7 +21,7 @@
 
 - 📫  Feel free to reach out or check out my repos below
 
-- 🌐  Check out my website: [Website](www.d6wo.cc)
+- 🌐  Check out my website: [Website](https://www.d6wo.cc)
 
 ---
 
@@ -34,5 +34,5 @@
 ---
 
 <p align="center">
-  <i>🔒 Security isn't a product, it's a process.</i>
+  <i>🔒 Security isn't a product; it's a process.</i>
 </p>
