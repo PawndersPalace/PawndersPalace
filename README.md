@@ -1,38 +1,26 @@
-<h1 align="center">Hi 👋, I'm Pawn</h1>
-<h3 align="center">Cybersecurity Enthusiast | Developer | Gamer</h3>
+# WELCOME
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2AA9E0&center=true&vCenter=true&width=500&lines=Testing+Hardware+to+understand+them;Coding+with+Lua%2C+Python%2C+C%2B%2B+%26+C%23;Always+learning%2C+always+working" alt="Typing SVG" />
-</p>
+```console
+Pawn@github:~$ whoami
+reverse engineer / gamer / developer
 
----
+Pawn@github:~$ cat interests.txt
+[+] reverse engineering
+[+] analysis
+[+] CTFs
+[+] making computers go crazy
 
-### 🔐 About Me
+Pawn@github:~$ uptime
+9 months of cybersecurity
+```
 
-- 🛡️  I'm into **cybersecurity** — always exploring how systems break and how to defend them
+I'm **Pawn**, a high school developer interested in cybersecurity, reverse engineering, analysis, and computer science.
 
-- 💻  I code in **Lua, Python, C++, and C#**
+## Tools & languages
 
-- 🌍  Based in the **USA**
+`C` `C++` `Python` `HTML` `CSS` `JavaScript` `Lua`
 
-- 🗣️  I speak **German** and **English**
-
-- 🎮  In my free time, you'll find me **gaming**
-
-- 📫  Feel free to reach out or check out my repos below
-
-- 🌐  Check out my website: [Website](https://www.d6wo.cc)
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,python,cpp,cs,linux,git" alt="skills" />
-</p>
-
----
-
-<p align="center">
-  <i>🔒 Security isn't a product; it's a process.</i>
-</p>
+```console
+Pawn@github:~$ ./current-project
+> Stuff I make has no reasoning or makes no sense.
+```
