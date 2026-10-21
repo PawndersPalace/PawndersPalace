@@ -5,10 +5,15 @@
 ### Independent projects, with a focus on useful macOS tools.
 
 [![GitHub](https://img.shields.io/badge/GitHub-PawndersPalace-181717?style=for-the-badge&logo=github)](https://github.com/PawndersPalace)
+[![Website](https://img.shields.io/badge/Website-D6wo.cc-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://D6wo.cc)
 
 </div>
 
 ---
+
+## About me
+
+I'm an independent developer who builds small tools and experiments for macOS and other operating systems. I'm interested in cybersecurity, malware analysis, and CTFs.
 
 ## Featured projects
 
