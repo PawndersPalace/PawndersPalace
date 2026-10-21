@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast | Developer | Gamer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2AA9E0&center=true&vCenter=true&width=500&lines=Testing+Hardware+and+Software+to+understand+them;Coding+with+Lua%2C+Python%2C+C%2B%2B+%26+C%23;Always+learning%2C+always+working" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2AA9E0&center=true&vCenter=true&width=500&lines=Testing+Hardware+to+understand+them;Coding+with+Lua%2C+Python%2C+C%2B%2B+%26+C%23;Always+learning%2C+always+working" alt="Typing SVG" />
 </p>
 
 ---
