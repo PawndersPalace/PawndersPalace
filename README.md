@@ -2,7 +2,7 @@
 
 # PawndersPalace
 
-### Independent projects, with a focus on useful macOS tools.
+### Independent projects, with a focus on useful of tools.
 
 [![GitHub](https://img.shields.io/badge/GitHub-PawndersPalace-181717?style=for-the-badge&logo=github)](https://github.com/PawndersPalace)
 [![Website](https://img.shields.io/badge/Website-D6wo.cc-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://D6wo.cc)
